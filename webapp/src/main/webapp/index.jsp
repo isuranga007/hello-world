@@ -32,6 +32,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-  <h1>Yes, You Can Do It....!!!</h1>
+  <h1>Yes, You Can Do It... Everything will be alright!!!</h1>
 
 </form>
