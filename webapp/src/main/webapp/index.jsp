@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-  <h1>Everything will be alright!!!</h1>
+  <h1>Uditha...!!! Everything will be alright!!!</h1>
   
 
 </form>
