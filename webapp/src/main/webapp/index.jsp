@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New User Register form for Devops</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Please fill in this form to create an account. This is Branch1</p>
     <hr>
 
     <label for="name"><b> FirstName</b></label>
@@ -32,6 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-  <h1>Yes, You Can Do It... Everything will be alright!!!</h1>
+  <h1>Everything will be alright!!!</h1>
+  
 
 </form>
