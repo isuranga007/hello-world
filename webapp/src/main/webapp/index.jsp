@@ -32,7 +32,9 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-  <h1>!!!!!....Hi Uditha Isuranga Hewage...!!! Everything will be alright!!! Yes you can do it...!!! Have a great year ahead..!!!</h1>
+  <h1>!!!!!....Hi Uditha Isuranga Hewage...!!!</h1>
+  <h1>Everything will be alright!!! Yes you can do it...!!! </h1>
+  <h1>Have a great year ahead..!!!</h1>
   
 
 </form>
